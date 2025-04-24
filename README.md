@@ -25,7 +25,7 @@ A Python-based web scraping and monitoring tool that keeps track of property lis
 
 ### 🚀 Installation
 
-git clone https://github.com/your-username/real-estate-monitor.git cd real-estate-monitor 
+git clone https://github.com/parash-ax/real-estate-monitor.git cd real-estate-monitor 
 pip install -r requirements.txt
 
 
